@@ -1,0 +1,116 @@
+{
+  "array":[
+    {
+      "title": "Find the smallest number in an array",
+      "url": "https://www.geeksforgeeks.org/cpp/how-to-find-smallest-number-in-array-in-cpp/"
+    },
+    {
+      "title": "Find the largest number in an array",
+      "url": "https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1"
+    },
+    {
+      "title": "Second Smallest and Second Largest element in an array",
+      "url": ""
+    },
+    {
+      "title": "Reverse a given array",
+      "url": ""
+    },
+    {
+      "title": "Count frequency of each element in an array",
+      "url": ""
+    },
+    {
+      "title": "Rearrange array in increasing-decreasing order",
+      "url": ""
+    },
+    {
+      "title": "Calculate sum of the elements of the array",
+      "url": ""
+    },
+    {
+      "title": "Rotate array by K elements - Block Swap Algorithm",
+      "url": ""
+    },
+    {
+      "title": "Average of all elements in an array",
+      "url": ""
+    },
+    {
+      "title": "Find the median of the given array",
+      "url": ""
+    },
+    {
+      "title": "Remove duplicates from a sorted array",
+      "url": ""
+    },
+    {
+      "title": "Adding Element in an array",
+      "url": ""
+    },
+    {
+      "title": "Find all repeating elements in an array",
+      "url": ""
+    },
+    {
+      "title": "Find all non-repeating elements in an array",
+      "url": ""
+    },
+    {
+      "title": "Find all symmetric pairs in array",
+      "url": ""
+    },
+    {
+      "title": "Maximum product subarray in an array",
+      "url": ""
+    },
+    {
+      "title": "Sorting elements of an array by frequency",
+      "url": ""
+    },
+    {
+      "title": "Replace each element of the array by its rank in the array",
+      "url": ""
+    },
+    {
+      "title": "Rotation of elements of array- left and right",
+      "url": ""
+    },
+    {
+      "title": "Finding equilibrium index of an array",
+      "url": ""
+    },
+    {
+      "title": "Sort an array according to the order defined by another array",
+      "url": ""
+    },
+    {
+      "title": "Check if Array is a subset of another array or not",
+      "url": ""
+    }
+  ],
+
+
+  "sorting":[
+    {
+      "title": "Bubble Sort Algorithm",
+      "url": "https://www.geeksforgeeks.org/problems/bubble-sort/1"
+    },
+    {
+      "title": "Selection Sort Algorithm",
+      "url": "https://www.geeksforgeeks.org/problems/selection-sort/1"
+    },
+    {
+      "title": "Insertion Sort Algorithm",
+      "url": "https://www.geeksforgeeks.org/problems/insertion-sort/1"
+    },
+    {
+      "title": "Quick Sort Algorithm",
+      "url": "https://www.geeksforgeeks.org/problems/quick-sort/1"
+    },
+    {
+      "title": "Merge sort algorithm",
+      "url": "https://www.geeksforgeeks.org/problems/merge-sort/1"
+    }
+  ]
+}
