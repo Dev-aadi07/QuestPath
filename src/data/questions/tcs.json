@@ -9,84 +9,275 @@
       "url": "https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1"
     },
     {
-      "title": "Second Smallest and Second Largest element in an array",
-      "url": ""
+      "title": "Smallest and Second Smallest element in an array",
+      "url": "https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1"
+    },
+    {
+      "title": "Second Largest element in an array",
+      "url": "https://www.geeksforgeeks.org/problems/second-largest3735/1"
     },
     {
       "title": "Reverse a given array",
-      "url": ""
+      "url": "https://www.geeksforgeeks.org/problems/reverse-an-array/1"
     },
     {
       "title": "Count frequency of each element in an array",
-      "url": ""
+      "url": "https://www.naukri.com/code360/problems/count-frequency-in-a-range_8365446"
     },
     {
       "title": "Rearrange array in increasing-decreasing order",
-      "url": ""
+      "url": "https://www.geeksforgeeks.org/problems/sort-first-half-in-ascending-and-second-half-in-descending1714/1"
     },
     {
       "title": "Calculate sum of the elements of the array",
-      "url": ""
+      "url": "https://www.geeksforgeeks.org/problems/sum-of-array2326/1"
     },
     {
       "title": "Rotate array by K elements - Block Swap Algorithm",
-      "url": ""
+      "url": "https://leetcode.com/problems/rotate-array/description/"
     },
     {
       "title": "Average of all elements in an array",
-      "url": ""
+      "url": "https://www.geeksforgeeks.org/dsa/program-average-array-iterative-recursive/"
     },
     {
       "title": "Find the median of the given array",
-      "url": ""
+      "url": "https://www.geeksforgeeks.org/problems/find-the-median0527/1"
     },
     {
       "title": "Remove duplicates from a sorted array",
-      "url": ""
+      "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/"
     },
     {
       "title": "Adding Element in an array",
-      "url": ""
+      "url": "https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3244/"
     },
     {
       "title": "Find all repeating elements in an array",
-      "url": ""
+      "url": "https://leetcode.com/problems/find-all-duplicates-in-an-array/description/"
     },
     {
       "title": "Find all non-repeating elements in an array",
-      "url": ""
+      "url": "https://www.naukri.com/code360/problems/unique-pair-using-bits_972997"
     },
     {
       "title": "Find all symmetric pairs in array",
-      "url": ""
+      "url": "https://www.geeksforgeeks.org/dsa/given-an-array-of-pairs-find-all-symmetric-pairs-in-it/"
     },
     {
       "title": "Maximum product subarray in an array",
-      "url": ""
+      "url": "https://leetcode.com/problems/maximum-product-subarray/description/"
     },
     {
       "title": "Sorting elements of an array by frequency",
-      "url": ""
+      "url": "https://leetcode.com/problems/sort-array-by-increasing-frequency/description/"
     },
     {
       "title": "Replace each element of the array by its rank in the array",
-      "url": ""
+      "url": "https://leetcode.com/problems/rank-transform-of-an-array/description/"
     },
     {
-      "title": "Rotation of elements of array- left and right",
-      "url": ""
+      "title": "Rotation of elements of array- left",
+      "url": "https://www.hackerrank.com/challenges/array-left-rotation/problem"
     },
     {
       "title": "Finding equilibrium index of an array",
-      "url": ""
+      "url": "https://leetcode.com/problems/find-pivot-index/description/"
     },
     {
       "title": "Sort an array according to the order defined by another array",
-      "url": ""
+      "url": "https://leetcode.com/problems/relative-sort-array/description/"
     },
     {
       "title": "Check if Array is a subset of another array or not",
-      "url": ""
+      "url": "https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1"
+    }
+  ],
+
+  "numbers":[
+  { 
+    "title": "Check if a number is palindrome or not", 
+    "url": "https://leetcode.com/problems/palindrome-number/" 
+  },
+  { 
+    "title": "Find all Palindrome numbers in a given range", 
+    "url": "https://www.geeksforgeeks.org/dsa/program-print-palindromes-given-range/" 
+  },
+  { 
+    "title": "Check if a number is prime or not", 
+    "url": "https://www.geeksforgeeks.org/problems/prime-number2314/1" 
+  },
+  { 
+    "title": "Prime numbers in a given range", 
+    "url": "https://www.geeksforgeeks.org/dsa/program-to-find-prime-numbers-between-given-interval/" 
+  },
+  { 
+    "title": "Check if a number is armstrong number or not", 
+    "url": "https://www.naukri.com/code360/problems/check-armstrong_589" 
+  },
+  { 
+    "title": "Check if a number is perfect number", 
+    "url": "https://leetcode.com/problems/perfect-number/description/" 
+  },
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  { 
+    "title": "Even or Odd", 
+    "url": "https://www.programiz.com/c-programming/examples/even-odd" 
+  },
+  { 
+    "title": "Check whether a given number is positive or negative", 
+    "url": "https://www.programiz.com/c-programming/examples/positive-negative-number" 
+  },
+  { 
+    "title": "Sum of first N natural numbers", 
+    "url": "https://www.programiz.com/c-programming/examples/sum-first-n-natural-numbers" 
+  },
+  { 
+    "title": "Find Sum of AP Series", 
+    "url": "https://www.programiz.com/c-programming/examples/arithmetic-progression" 
+  },
+  { 
+    "title": "Program to find sum of GP Series", 
+    "url": "https://www.tutorialspoint.com/c-program-to-find-the-sum-of-geometric-progression-series" 
+  },
+  { 
+    "title": "Greatest of two numbers", 
+    "url": "https://www.programiz.com/c-programming/examples/largest-two-numbers" 
+  },
+  { 
+    "title": "Greatest of three numbers", 
+    "url": "https://www.programiz.com/c-programming/examples/largest-three-numbers" 
+  },
+  { 
+    "title": "Leap Year or not", 
+    "url": "https://www.programiz.com/c-programming/examples/check-year-leap" 
+  },
+  { 
+    "title": "Reverse digits of a number", 
+    "url": "https://www.w3resource.com/java-exercises/numbers/java-number-exercise-24.php" 
+  },
+  { 
+    "title": "Maximum and Minimum digit in a number", 
+    "url": "https://prepinsta.com/c-program/find-the-largest-and-smallest-digit-in-the-number/" 
+  },
+  { 
+    "title": "Print Fibonacci upto Nth Term", 
+    "url": "https://www.programiz.com/c-programming/examples/fibonacci-series" 
+  },
+  { 
+    "title": "Factorial of a number", 
+    "url": "https://www.programiz.com/c-programming/examples/factorial-recursion" 
+  },
+  { 
+    "title": "Power of a number", 
+    "url": "https://www.geeksforgeeks.org/write-a-c-program-to-calculate-powxn/" 
+  },
+  { 
+    "title": "Factors of a given number", 
+    "url": "https://www.programiz.com/c-programming/examples/factors-number" 
+  },
+  { 
+    "title": "Print all prime factors of the given number", 
+    "url": "https://www.geeksforgeeks.org/print-all-prime-factors-of-a-given-number/" 
+  },
+  { 
+    "title": "Check if a number is a strong number or not", 
+    "url": "https://www.tutorialgateway.org/strong-number-in-c/" 
+  },
+  { 
+    "title": "Check if a Number is Automorphic", 
+    "url": "https://www.geeksforgeeks.org/automorphic-number/" 
+  },
+  { 
+    "title": "GCD of two numbers", 
+    "url": "https://www.programiz.com/c-programming/examples/hcf-gcd" 
+  },
+  { 
+    "title": "LCM of two numbers", 
+    "url": "https://www.programiz.com/c-programming/examples/lcm-of-two-numbers" 
+  },
+  { 
+    "title": "Check if a number is Harshad number", 
+    "url": "https://www.tutorialspoint.com/harshad-number-in-cplusplus" 
+  },
+  { 
+    "title": "Check if the number is abundant number or not", 
+    "url": "https://www.geeksforgeeks.org/abundant-number/" 
+  },
+  { 
+    "title": "Sum of digits of a number", 
+    "url": "https://www.programiz.com/c-programming/examples/sum-of-digits" 
+  },
+  { 
+    "title": "Sum of numbers in the given range", 
+    "url": "https://www.geeksforgeeks.org/program-to-find-sum-of-elements-in-a-given-range/" 
+  },
+  { 
+    "title": "Permutations in which N people can occupy R seats in a classroom", 
+    "url": "https://www.geeksforgeeks.org/find-permutation-npr/" 
+  },
+  { 
+    "title": "Program to add two fractions", 
+    "url": "https://www.includehelp.com/c-programs/add-two-fractions.aspx" 
+  },
+  { 
+    "title": "Replace all 0s with 1s in a given integer", 
+    "url": "https://www.geeksforgeeks.org/replace-all-0s-with-1-in-a-given-integer/" 
+  },
+  { 
+    "title": "Can a number be expressed as a sum of two prime numbers", 
+    "url": "https://www.programiz.com/c-programming/examples/prime-sum" 
+  },
+  { 
+    "title": "Calculate the area of circle", 
+    "url": "https://www.programiz.com/c-programming/examples/area-circle" 
+  },
+  { 
+    "title": "Program to find roots of a Quadratic Equation", 
+    "url": "https://www.programiz.com/c-programming/examples/quadratic-roots" 
+  }
+],
+
+  "number system":[
+    {
+      "title": "Convert Binary to Decimal",
+      "url": "https://www.geeksforgeeks.org/problems/binary-number-to-decimal-number/1"
+    },
+    {
+      "title": "Convert Binary to Octal",
+      "url": "https://www.geeksforgeeks.org/maths/binary-to-octal-conversion/"
+    },
+    {
+      "title": "Decimal to Binary Conversion",
+      "url": "https://www.geeksforgeeks.org/problems/decimal-to-binary/1"
+    },
+    {
+      "title": "Convert Decimal to Octal",
+      "url": "https://www.geeksforgeeks.org/dsa/program-decimal-octal-conversion/"
+    },
+    {
+      "title": "Convert Octal to Binary",
+      "url": "https://www.geeksforgeeks.org/dsa/program-to-convert-octal-number-to-binary-number/"
+    },
+    {
+      "title": "Convert Octal to Decimal",
+      "url": "https://www.geeksforgeeks.org/dsa/program-octal-decimal-conversion/"
+    },
+    {
+      "title": "Convert Digits/Numbers to Words",
+      "url": "https://leetcode.com/problems/integer-to-english-words/description/"
     }
   ],
 
@@ -112,5 +303,122 @@
       "title": "Merge sort algorithm",
       "url": "https://www.geeksforgeeks.org/problems/merge-sort/1"
     }
+  ],
+
+
+  "string":[
+    {
+      "title": "Check if a given string is palindrome or not",
+      "url": "https://www.geeksforgeeks.org/problems/palindrome-string0817/1"
+    },
+    {
+      "title": "Count number of vowels, consonants, spaces in String",
+      "url": "https://www.naukri.com/code360/problems/count-vowels-consonants-and-spaces_5026361"
+    },
+    {
+      "title": "Find the ASCII value of a character",
+      "url": "https://www.geeksforgeeks.org/competitive-programming/program-print-ascii-value-character/"
+    },
+    {
+      "title": "Remove all vowels from the string",
+      "url": "https://www.geeksforgeeks.org/problems/remove-vowels-from-string1446/1"
+    },
+    {
+      "title": "Remove spaces from a string",
+      "url": "https://www.geeksforgeeks.org/problems/remove-spaces0128/1"
+    },
+    {
+      "title": "Remove characters from a string except alphabets",
+      "url": "https://www.geeksforgeeks.org/problems/remove-all-characters-other-than-alphabets4923/1"
+    },
+    {
+      "title": "Reverse a String",
+      "url": "https://leetcode.com/problems/reverse-string/description/"
+    },
+    {
+      "title": "Remove brackets from an algebraic expression",
+      "url": "https://www.geeksforgeeks.org/dsa/remove-brackets-algebraic-string-containing-operators/"
+    },
+    {
+      "title": "Sum of the numbers in a String",
+      "url": "https://www.geeksforgeeks.org/problems/sum-of-numbers-in-string-1587115621/1"
+    },
+    {
+      "title": "Capitalize first and last character of each word",
+      "url": "https://leetcode.com/problems/capitalize-the-title/description/"
+    },
+    {
+      "title": "Calculate frequency of characters in a string",
+      "url": "https://www.geeksforgeeks.org/dsa/print-characters-frequencies-order-occurrence/"
+    },
+    {
+      "title": "Find Non-repeating characters of a String",
+      "url": "https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1"
+    },
+    {
+      "title": "Check if two strings are anagram of each other",
+      "url": "https://leetcode.com/problems/valid-anagram/description/"
+    },
+    {
+      "title": "Count common sub-sequence in two strings",
+      "url": "https://www.geeksforgeeks.org/problems/common-subsequence-oldp3752/1"
+    },
+    {
+      "title": "Check if two strings match where one string contains wildcard characters",
+      "url": "https://leetcode.com/problems/wildcard-matching/description/"
+    },
+    {
+      "title": "Return maximum occurring character in the input string",
+      "url": "https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1"
+    },
+    {
+      "title": "Remove all duplicates from the input string",
+      "url": "https://leetcode.com/problems/remove-duplicate-letters/description/"
+    },
+    {
+      "title": "Print all the duplicates in the input string",
+      "url": "https://www.geeksforgeeks.org/dsa/print-all-the-duplicates-in-the-input-string/"
+    },
+    {
+      "title": "Remove characters from first string present in the second string",
+      "url": "https://www.geeksforgeeks.org/problems/remove-character3815/1"
+    },
+    {
+      "title": "Change every letter with the next lexicographic alphabet in the given string",
+      "url": "https://leetcode.com/problems/shifting-letters/description/"
+    },
+    {
+      "title": "Write a program to find the largest word in a given string",
+      "url": "https://leetcode.com/problems/longest-word-in-dictionary/description/"
+    },
+    {
+      "title": "Write a program to sort characters in a string",
+      "url": "https://www.geeksforgeeks.org/problems/sort-a-string2943/1"
+    },
+    {
+      "title": "Count number of words in a given string",
+      "url": "https://www.geeksforgeeks.org/problems/count-number-of-words1500/1"
+    },
+    {
+      "title": "Write a program to find a word in a given string which has the highest number of repeated letters",
+      "url": "https://www.geeksforgeeks.org/dsa/find-a-word-with-highest-number-of-repeating-characters/"
+    },
+    {
+      "title": "Change case of each character in a string",
+      "url": "https://www.geeksforgeeks.org/problems/toggle-case/1"
+    },
+    {
+      "title": "Concatenate one string to another",
+      "url": "https://www.geeksforgeeks.org/cpp/string-concatenation-in-cpp/"
+    },
+    {
+      "title": "Write a program to find a substring within a string. If found display its starting position",
+      "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/"
+    },
+    {
+      "title": "Reverse words in a string",
+      "url": "https://leetcode.com/problems/reverse-words-in-a-string/"
+    }
   ]
+
 }
