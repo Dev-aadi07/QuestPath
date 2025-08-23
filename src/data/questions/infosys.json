@@ -1,0 +1,244 @@
+{
+  "array-string":[
+    {
+      "title": "Maximum subarray sum",
+      "url": "https://leetcode.com/problems/maximum-subarray/description/"
+    },
+    {
+      "title": "Find the Duplicate Number",
+      "url": "https://leetcode.com/problems/find-the-duplicate-number/description/"
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/description/"
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/description/"
+    },
+    {
+      "title": "Merge Sorted Array",
+      "url": "https://leetcode.com/problems/merge-sorted-array/description/"
+    },
+    {
+      "title": "Rotate Array",
+      "url": "https://leetcode.com/problems/rotate-array/description/"
+    },
+    {
+      "title": "Reverse string without built-in functions",
+      "url": "https://leetcode.com/problems/reverse-string/description/"
+    },
+    {
+      "title": "String compression (e.g., aaabb -> a3b2)",
+      "url": "https://leetcode.com/problems/string-compression/description/"
+    },
+    {
+      "title": "Search in a 2D matrix",
+      "url": "https://leetcode.com/problems/search-a-2d-matrix/"
+    }
+  ],
+
+
+  "searching-sorting":[
+    {
+      "title": "Bubble Sort Algorithm",
+      "url": "https://www.geeksforgeeks.org/problems/bubble-sort/1"
+    },
+    {
+      "title": "Selection Sort Algorithm",
+      "url": "https://www.geeksforgeeks.org/problems/selection-sort/1"
+    },
+    {
+      "title": "Insertion Sort Algorithm",
+      "url": "https://www.geeksforgeeks.org/problems/insertion-sort/1"
+    },
+    {
+      "title": "Quick Sort Algorithm",
+      "url": "https://www.geeksforgeeks.org/problems/quick-sort/1"
+    },
+    {
+      "title": "Merge sort algorithm",
+      "url": "https://www.geeksforgeeks.org/problems/merge-sort/1"
+    },
+    {
+      "title": "Kth Largest Element in an Array",
+      "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/description/"
+    },
+    {
+      "title": "Search in Rotated Sorted Array",
+      "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/description/"
+    },
+    {
+      "title": "Lower and Upper Bound",
+      "url": "https://leetcode.com/discuss/post/1675643/lower-bound-and-upper-bound-by-kanavaror-qj1g/"
+    }
+  ],
+
+
+  "linked list": [
+    {
+      "title": "Reverse a linked list (iterative)",
+      "url": "https://leetcode.com/problems/reverse-linked-list/description/"
+    },
+    {
+      "title": "Reverse a linked list (recursive)",
+      "url": "https://leetcode.com/problems/reverse-linked-list/description/"
+    },
+    {
+      "title": "Detect and Remove loop (Floyd's algorithm)",
+      "url": "https://leetcode.com/problems/linked-list-cycle-ii/"
+    },
+    {
+      "title": "Merge Two Sorted Lists",
+      "url": "https://leetcode.com/problems/merge-two-sorted-lists/description/"
+    },
+    {
+      "title": "Palindrome Linked List",
+      "url": "https://leetcode.com/problems/palindrome-linked-list/description/"
+    },
+    {
+      "title": "Palindrome Linked List",
+      "url": "https://leetcode.com/problems/palindrome-linked-list/description/"
+    }
+  ],
+
+
+  "stacks-queues":[
+    {
+      "title": "Valid Parentheses",
+      "url": "https://leetcode.com/problems/valid-parentheses/description/"
+    },
+    {
+      "title": "Implement a queue using stacks",
+      "url": "https://leetcode.com/problems/implement-queue-using-stacks/description/"
+    },
+    {
+      "title": "Next Greater Element",
+      "url": "https://leetcode.com/problems/next-greater-element-i/description/"
+    },
+    {
+      "title": "LRU Cache (design-based)",
+      "url": "https://leetcode.com/problems/lru-cache/description/"
+    }
+  ],
+
+
+  "tree-bst":[
+    {
+      "title": "Inorder Traversal",
+      "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/description/"
+    },
+    {
+      "title": "Preorder Traversal",
+      "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/description/"
+    },
+    {
+      "title": "Postorder Traversal",
+      "url": "https://leetcode.com/problems/binary-tree-postorder-traversal/description/"
+    },
+    {
+      "title": "Maximum Depth of Binary Tree",
+      "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/description/"
+    },
+    {
+      "title": "Height of Binary Tree",
+      "url": "https://www.geeksforgeeks.org/problems/height-of-binary-tree/1"
+    },
+    {
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/"
+    },
+    {
+      "title": "Balanced Binary Tree",
+      "url": "https://leetcode.com/problems/balanced-binary-tree/description/"
+    },
+    {
+      "title": "Serialize and Deserialize Binary Tree",
+      "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/"
+    }
+  ],
+
+
+  "graphs":[
+    {
+      "title": "DFS of Graph",
+      "url": "https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1"
+    },
+    {
+      "title": "BFS of Graph",
+      "url": "https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1"
+    },
+    {
+      "title": "Detect cycle in undirected graph",
+      "url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1"
+    },
+    {
+      "title": "Detect cycle in directed graph",
+      "url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1"
+    },
+    {
+      "title": "Topological sort (Kahn's Algorithm)",
+      "url": "https://www.geeksforgeeks.org/problems/topological-sort/1"
+    },
+    {
+      "title": "Number of islands",
+      "url": "https://leetcode.com/problems/number-of-islands/description/"
+    },
+    {
+      "title": "Dijkstra Algorithm",
+      "url": "https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1"
+    }
+  ],
+
+
+  "dp":[
+    {
+      "title": "0/1 Knapsack problem",
+      "url": "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1"
+    },  
+    {
+      "title": "Longest Common Subsequence (LCS)",
+      "url": "https://leetcode.com/problems/longest-common-subsequence/description/"
+    },  
+    {
+      "title": "Longest Palindromic Subsequence",
+      "url": "https://leetcode.com/problems/longest-palindromic-subsequence/description/"
+    },
+    {
+      "title": "Coin Change problem",
+      "url": "https://leetcode.com/problems/coin-change/description/"
+    },
+    {
+      "title": "Unique paths in a grid",
+      "url": "https://leetcode.com/problems/unique-paths/description/"
+    },
+    {
+      "title": "Longest Increasing Subsequence",
+      "url": "https://leetcode.com/problems/longest-increasing-subsequence/description/"
+    }
+  ],
+
+
+  "recursion":[
+    {
+      "title": "N-Queens problem",
+      "url": "https://leetcode.com/problems/n-queens/description/"
+    },
+    {
+      "title": "Subset Sum",
+      "url": "https://www.geeksforgeeks.org/problems/subset-sums2234/1"
+    },
+    {
+      "title": "Combination Sum",
+      "url": "https://leetcode.com/problems/combination-sum/description/"
+    },
+    {
+      "title": "Word Search",
+      "url": "https://leetcode.com/problems/word-search/description/"
+    },
+    {
+      "title": "Rat in a Maze",
+      "url": "https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1"
+    }
+  ]
+}
